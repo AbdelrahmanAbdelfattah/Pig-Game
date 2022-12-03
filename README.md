@@ -12,4 +12,4 @@ Pig game is a simple dice game where the players take turns to roll a single die
 
 ![flowchart](https://github.com/AbdelrahmanAbdelfattah/Pig-Game/blob/master/pig-game-flowchart.png)
 
-### Note : I do only the javascript code not html and CSS
+### Note : I coded only the javascript code 
